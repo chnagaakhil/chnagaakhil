@@ -32,7 +32,7 @@ Aspiring entrepreneur passionate about transforming ideas into innovative soluti
 
 ### 🔬 Learning & Interests
 
-**AI & Neural Networks:** Jupyter, Databricks, RStudio, Google Colab
+**AI & Neural Networks:** Jupyter, Databricks, RStudio, Google Colab  
 **Cybersecurity/Ethical Hacking:** Raspberry Pi, Wireshark, NMap, NetStumbler, Kali Linux
 
 ---
