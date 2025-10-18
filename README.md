@@ -25,14 +25,15 @@ Aspiring entrepreneur passionate about transforming ideas into innovative soluti
 **Data Science:** Pandas, NumPy, SciPy, scikit-learn, TensorFlow, PyTorch, Tableau, Power BI, Matplotlib, Seaborn  
 **App/Web:** Xcode, Android Studio, Flutter, HTML, CSS, JavaScript, PHP  
 **Cloud & DB:** AWS, Azure, GCP, MongoDB, Oracle, MySQL, SQL  
-**DevOps:** GitHub, Jenkins, Agile Scrum; IDEs: Eclipse, Visual Studio, PyCharm, JetBrains  
+**DevOps:** GitHub, Jenkins, Agile Scrum
+**IDEs:** Eclipse, Visual Studio, PyCharm, JetBrains  
 
 ---
 
 ### 🔬 Learning & Interests
 
-- AI & Neural Networks: Jupyter, Databricks, RStudio, Google Colab
-- Cybersecurity/Ethical Hacking: Raspberry Pi, Wireshark, NMap, NetStumbler, Kali Linux
+**AI & Neural Networks:** Jupyter, Databricks, RStudio, Google Colab
+**Cybersecurity/Ethical Hacking:** Raspberry Pi, Wireshark, NMap, NetStumbler, Kali Linux
 
 ---
 
